@@ -1,4 +1,4 @@
-user_input = 'random
+user_input = 'random'
 data = []
 
 def show_menu():
